@@ -3,6 +3,10 @@
 
 #include "stdafx.h"
 
+#include "genetic_algorithm.h"
+
+#include <vector>
+#include <string>
 
 int _tmain(int argc, _TCHAR* argv[])
 {
